@@ -1,0 +1,154 @@
+.head {
+	height: 82px;
+	margin-left: 360px;
+}
+
+.miantain img {
+	position: relative;
+	width: 100%;
+	height: 480px;
+}
+
+.login ul {
+	position: absolute;
+	right: 200px;
+	top: 140px;
+	width: 385px;
+	height: 365px;
+	background-color: #fff;
+}
+
+.nav {
+	margin: 22px 48px 21px 50px;
+	font-size: 18px;
+}
+
+.nav p {
+	float: left;
+	color: #808080;
+}
+
+.line {
+	float: left;
+	padding-right: 68px;
+	padding-left: 68px;
+	color: #ededed;
+}
+
+.nav a {
+	color: #d77277;
+}
+
+.tip {
+	width: 303px;
+	height: 28px;
+	background-color: #fffdee;
+	color: #666666;
+	line-height: 28px;
+	text-align: center;
+	margin-left: 40px;
+	border: 1px solid #f5eecf;
+}
+
+.zhanghao,
+.mima,
+.choice,
+.denglu,
+.qita {
+	float: left;
+	margin: 12px 41px 9px 40px;
+	width: 303px;
+	height: 38px;
+	line-height: 36px;
+}
+
+.zhanghao {
+	border: 1px solid #3aa2e4;
+}
+
+.mima {
+	border: 1px solid #bbbaba;
+	margin-top: 12px;
+}
+
+.id img,
+.password img {
+	float: left;
+	width: 40px;
+	height: 36px;
+}
+
+.id input,
+.password input {
+	height: 36px;
+	padding-left: 12px;
+	font-size: 14px;
+}
+
+.choice {
+	height: 13px;
+	line-height: 13px;
+}
+
+.choice img {
+	float: left;
+	width: 14px;
+	height: 13px;
+}
+
+.choice p {
+	float: left;
+	color: #b3b3b3;
+	font-size: 12px;
+}
+
+.choice a {
+	padding-left: 174px;
+	font-size: 12px;
+	font-family: 宋体;
+	color: #333333;
+}
+
+.denglu {
+	height: 42px;
+	background-color: #c81623;
+}
+
+.denglu a {
+	color: #fff;
+	line-height: 42px;
+	padding-left: 134px;
+	font-size: 16px;
+	font-family: 微软雅黑;
+}
+
+.qita img {
+	float: left;
+	width: 195px;
+	height: 33px;
+	margin-left: -10px;
+}
+
+.qita a {
+	padding-left: 48px;
+	font-size: 14px;
+	line-height: 34px;
+	color: #1474ac;
+}
+
+.mod_copyright {
+	text-align: center;
+	padding-top: 20px;
+}
+
+.links {
+	margin-bottom: 15px;
+}
+
+.copyright {
+	line-height: 20px;
+}
+
+.links a {
+	margin: 0 4px;
+}
